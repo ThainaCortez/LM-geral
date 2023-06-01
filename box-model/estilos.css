@@ -1,0 +1,33 @@
+.container{
+    background-color: #555555;
+    width: 400px;
+   /* padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px; */
+   
+   /* top, right, bottom e left */
+   /* padding: 20px 10px 20 10;  */
+
+   /*top bottom - left right*/
+   /* padding: 20px 10px; */
+
+   /* todos */
+  padding: 10px;
+  
+
+   /* estudos de margin */
+   margin-top: 20px;
+   margin-left: 20px;
+   margin-bottom: 30px;
+   margin-right: 20px;
+
+    /* top, right, bottom e left */ 
+    margin: 20px 10px 20px 10px;  
+
+     /* todos */
+  margin: 15px;
+/* border */
+border: 5px solid #f01313;
+border-radius: 10px;
+}
